@@ -7,7 +7,6 @@ assignees: ''
 
 ---
 
----
 name: " Fix bug"
 about: 버그 수정
 title: 'feat: '
