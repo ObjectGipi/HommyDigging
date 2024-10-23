@@ -7,4 +7,11 @@ assignees: ''
 
 ---
 
-기능에 대해서 설명해주세요.
+---
+name: " Fix bug"
+about: 버그 수정
+title: 'feat: '
+labels: ''
+assignees: ''
+
+---
